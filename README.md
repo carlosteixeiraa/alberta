@@ -3,14 +3,14 @@ Uma assistente pessoal em portugues!
 
 ### O que é?
 A Alberta é uma assistente pessoal que até agora tem poucas funcionalidades, mas uteis,
-<li><b>Reproduzir musica - Alberta toca NOMEDAMUSICA</b></li>
-<li><b>Procurar no google - Alberta procura OQUEPROCURAR</b></li>
-<li><b>Procurar no google maps - Alberta onde OQUEQUERSABER</b></li>
-<li><b>Tocar piano - Alberta toca piano</b></li>
-<li><b>Repetir frases - Alberta diz FRASE</b></li>
-<li><b>Ir para o site do dominos xD - Alberta quero/preciso de pizza</b></li>
-<li><b>Abrir site de filmes - Alberta quero/preciso de ver um filme</b></li>
-<li><b>Abrir site de filmes em Comedia, Terror ou Ação - Alberta quero/preciso de ver um filme de Comedia/Terror/Ação</b></li>
+<li><b>Reproduzir musica</b> - Alberta toca NOMEDAMUSICA</li>
+<li><b>Procurar no google</b> - Alberta procura OQUEPROCURAR</li>
+<li><b>Procurar no google maps</b> - Alberta onde OQUEQUERSABER</li>
+<li><b>Tocar piano</b>- Alberta toca piano</li>
+<li><b>Repetir frases</b> - Alberta diz FRASE</li>
+<li><b>Ir para o site do dominos xD</b> - Alberta quero/preciso de pizza</li>
+<li><b>Abrir site de filmes</b> - Alberta quero/preciso de ver um filme</li>
+<li><b>Abrir site de filmes em Comedia, Terror ou Ação</b> - Alberta quero/preciso de ver um filme de Comedia/Terror/Ação</li>
 <li><b>Mais para vir...</b></li>
 
 ### Como usar?
