@@ -1,0 +1,23 @@
+{
+  "name": "alberta",
+  "version": "2.0.0",
+  "description": "Uma assistente Pessoal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosteixeiraa/alberta.git"
+  },
+  "author": "Carlos Teixeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosteixeiraa/alberta/issues"
+  },
+  "homepage": "https://github.com/carlosteixeiraa/alberta#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
